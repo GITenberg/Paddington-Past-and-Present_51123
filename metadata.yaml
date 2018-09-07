@@ -1,11 +1,16 @@
 _repo: Paddington-Past-and-Present_51123
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Robins, William
     gutenberg_agent_id: '46249'
     url: http://www.gutenberg.org/2009/agents/46249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51123#Paddington-Past-and-Present
 gutenberg_issued: '2016-02-03'
 gutenberg_type: Text
 identifiers:
