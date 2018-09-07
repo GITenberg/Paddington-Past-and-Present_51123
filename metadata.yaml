@@ -1,0 +1,23 @@
+_repo: Paddington-Past-and-Present_51123
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robins, William
+    gutenberg_agent_id: '46249'
+    url: http://www.gutenberg.org/2009/agents/46249
+description: ''
+gutenberg_issued: '2016-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51123'
+  lccn: '02022365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paddington (London, England)'
+- !lcc 'DA'
+- GITenberg
+title: 'Paddington: Past and Present'
+url: http://www.gutenberg.org/ebooks/51123
